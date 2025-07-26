@@ -98,3 +98,17 @@ Admin Panel: http://localhost/project/admin
 
 You can now explore hotel listings, book rooms, and manage bookings.
 
+
+<img width="569" height="320" alt="image" src="https://github.com/user-attachments/assets/c666aec0-760d-4cd0-9889-7e9a51f50e07" />
+<img width="620" height="349" alt="image" src="https://github.com/user-attachments/assets/e732d8d7-b1ca-4367-8f5f-a4a51c1ba910" />
+<img width="1057" height="292" alt="image" src="https://github.com/user-attachments/assets/4302fd41-9d1c-4ba2-975f-fd7e2c25af04" />
+<img width="1074" height="295" alt="image" src="https://github.com/user-attachments/assets/df718755-7c99-4a60-8d3d-f73acb646634" />
+<img width="620" height="349" alt="image" src="https://github.com/user-attachments/assets/edfd5b90-b7b8-4ed6-8c8c-05f6dec2e711" />
+<img width="1035" height="280" alt="image" src="https://github.com/user-attachments/assets/87e3f99f-de65-4d8b-8e17-eb48f6bbc304" />
+
+
+
+
+
+
+
